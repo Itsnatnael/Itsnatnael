@@ -24,13 +24,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnaelalemayehu&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=natnaelalemayehu&theme=tokyonight" alt="streak"/>
-</p>
-
----
 
 > I don’t ship for the sake of shipping — I ship what moves the needle.
 
