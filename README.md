@@ -1,36 +1,26 @@
 <h1 align="center">Hi 👋, I'm Natnael Alemayehu</h1>
-<h3 align="center">🤖 I build things that think. Coding AI + web projects in my spare time.</h3>
+<h3 align="center">Business mind building product. Turning complex ideas into systems that scale.</h3>
 
 ---
 
 ### 🧠 About Me
-- 💻 I turn ideas into code and side projects into execution.
-- 🧠 I’m deeply curious about AI, web systems, and how to automate everything.
-- 🌍 Currently building at [LenseFinance.com](https://lensefinance.com) — a hub for financial market insights.
-- 🧱 I value simplicity, leverage, and speed to ship.
+- 📌 I’m a business strategist and operator — not a software engineer.
+- 🚀 Currently building a new platform in the creator economy space.
+- 🧩 I focus on user experience, partnerships, monetization mechanics, and go-to-market.
+- 🧱 I care about leverage and execution — not noise.
 
 ---
 
-### 🚀 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
-
----
-
-### 🛠️ Projects
-- 🌐 [LenseFinance.com](https://lensefinance.com)  
-  A clean, fast financial data platform for market insights and tools.
+### 🌐 What I Work On
+- designing systems that enable brands + creators to collaborate
+- simplifying onboarding + payments
+- content safety / trust mechanics
+- UI/UX strategy for structured workflows
 
 ---
 
 ### 📫 Reach Me
-- 📧 Email: [natnael@lensefinance.com](mailto:natnael@lensefinance.com)
+- 📧 Email: natnael@plankbase.com
 
 ---
 
@@ -42,4 +32,5 @@
 
 ---
 
-> “The fastest way to learn is to ship, break, and repeat.” — Natnael Alemayehu
+> I don’t ship for the sake of shipping — I ship what moves the needle.
+
